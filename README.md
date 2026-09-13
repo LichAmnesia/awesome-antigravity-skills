@@ -115,6 +115,7 @@ Curated picks: individual skills or focused libraries worth installing on their 
 - [File Organizer](https://github.com/ComposioHQ/awesome-claude-skills/tree/master/file-organizer) - Organizes files and folders by context, finds duplicates, and suggests better structures (part of awesome-claude-skills, ★ 67.9k, Jul 2026).
 - [kaizen](https://github.com/NeoLabHQ/context-engineering-kit/tree/master/plugins/kaizen/skills/kaizen) - Applies continuous-improvement methodology based on Kaizen and Lean (part of context-engineering-kit, ★ 1.2k, Jul 2026).
 - [awesome-agv](https://github.com/irahardianto/awesome-agv) - Coding standards and best-practice packs designed to elevate agent output (★ 150, Jul 2026).
+- [Grok Bridge](https://github.com/niharnm/grok-bridge/tree/v0.1.0-alpha.1/integrations/antigravity/grok-bridge) - Experimental skill for scoped Grok Bot and coding CLI handoffs, using existing native permissions and a separately installed CLI (part of grok-bridge, ★ 0, Sep 2026).
 
 ### Business and Marketing
 
