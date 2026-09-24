@@ -115,6 +115,7 @@ Curated picks: individual skills or focused libraries worth installing on their 
 - [File Organizer](https://github.com/ComposioHQ/awesome-claude-skills/tree/master/file-organizer) - Organizes files and folders by context, finds duplicates, and suggests better structures (part of awesome-claude-skills, ★ 67.9k, Jul 2026).
 - [kaizen](https://github.com/NeoLabHQ/context-engineering-kit/tree/master/plugins/kaizen/skills/kaizen) - Applies continuous-improvement methodology based on Kaizen and Lean (part of context-engineering-kit, ★ 1.2k, Jul 2026).
 - [awesome-agv](https://github.com/irahardianto/awesome-agv) - Coding standards and best-practice packs designed to elevate agent output (★ 150, Jul 2026).
+- [AnywhereDesign](https://anywheredesign.site) - Voice-driven remote workflow harness for orchestrating Antigravity and Claude Code agent missions from any device via local network pairing.
 
 ### Business and Marketing
 
