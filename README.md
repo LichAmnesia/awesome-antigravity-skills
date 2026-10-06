@@ -116,6 +116,8 @@ Curated picks: individual skills or focused libraries worth installing on their 
 - [kaizen](https://github.com/NeoLabHQ/context-engineering-kit/tree/master/plugins/kaizen/skills/kaizen) - Applies continuous-improvement methodology based on Kaizen and Lean (part of context-engineering-kit, ★ 1.2k, Jul 2026).
 - [awesome-agv](https://github.com/irahardianto/awesome-agv) - Coding standards and best-practice packs designed to elevate agent output (★ 150, Jul 2026).
 
+- [Publish with Shipvela](https://github.com/stefanautomateed/shipvela-codex/tree/main/skills/shipvela-publish) - Publishes static websites through hosted OAuth MCP with owner approval, deployment tracking, and build logs (part of shipvela-codex, ★ 0, Oct 2026).
+
 ### Business and Marketing
 
 - [Competitive Ads Extractor](https://github.com/ComposioHQ/awesome-claude-skills/tree/master/competitive-ads-extractor) - Extracts and analyzes competitors' ads from ad libraries to decode messaging and creative angles (part of awesome-claude-skills, ★ 67.9k, Jul 2026).
