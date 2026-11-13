@@ -98,6 +98,7 @@ Curated picks: individual skills or focused libraries worth installing on their 
 - [CSV Data Summarizer](https://github.com/coffeefuelbump/csv-data-summarizer-claude-skill) - Analyzes CSV files and generates insights with visualizations without extra prompting (★ 429, Jul 2026).
 - [PostgreSQL](https://github.com/sanjay3290/ai-skills/tree/main/skills/postgres) - Executes safe read-only SQL against PostgreSQL databases with multi-connection support (part of ai-skills, ★ 347, Jul 2026).
 - [D3.js Visualization](https://github.com/chrisvoncsefalvay/claude-d3js-skill) - Teaches the agent to produce D3 charts and interactive data visualizations (★ 212, Jul 2026).
+- [Datacircle](https://github.com/waynehamadi/datacircle/tree/main/skills/datacircle) - Compares and prices every plan of every GTM API from the benchmark at [datacircle.dev](https://datacircle.dev) (part of datacircle, ★ 2, Nov 2026).
 
 ### Game Development
 
