@@ -136,6 +136,7 @@ Curated picks: individual skills or focused libraries worth installing on their 
 - [Video Downloader](https://github.com/ComposioHQ/awesome-claude-skills/tree/master/video-downloader) - Downloads videos from YouTube and other platforms in various formats and qualities (part of awesome-claude-skills, ★ 67.9k, Jul 2026).
 - [youtube-transcript](https://github.com/michalparkola/tapestry-skills/tree/main/youtube-transcript) - Fetches transcripts from YouTube videos and prepares summaries (part of tapestry-skills, ★ 474, Jul 2026).
 - [imagen](https://github.com/sanjay3290/ai-skills/tree/main/skills/imagen) - Generates images via Google Gemini's image API for mockups, icons, and illustrations (part of ai-skills, ★ 347, Jul 2026).
+- [agy-meme](https://github.com/jiangnanquan/agy-meme) - Renders bidirectional Neko reaction stickers in Antigravity Desktop bubbles with an inline composer picker, MCP sticker tools, and automatic CLI isolation (★ 0, Nov 2026).
 
 ### Security and Systems
 
