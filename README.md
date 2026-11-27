@@ -201,6 +201,7 @@ Best practices from the official docs: keep skills focused (one skill, one job),
 - [awesome-agent-skills](https://github.com/skillmatic-ai/awesome-agent-skills) - Cross-vendor Agent Skills resource hub (★ 635, Jul 2026).
 - [awesome-devtools](https://github.com/devtoolsd/awesome-devtools) - Broader developer-tools list including AI coding assistants (★ 669, Jul 2026).
 - [OrangeBot Skills Library](https://orangebot.ai/skills) - Searchable index of 2,000+ Agent Skills with weekly install counts, GitHub stars, and one-click install commands.
+- [Antigravity Skills](https://www.antigravityskills.org/) - Independent directory of 86 Antigravity skills and MCP servers, each with install steps and a static security review pinned to a commit.
 
 ## Contributing
 
